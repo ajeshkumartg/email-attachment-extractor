@@ -1,9 +1,9 @@
 # email-attachment-extractor
 This is a python script to extract attachments from attachments disabled emails(with virus warning).
 
-**Note: Gmail warned you that attachment is not safe. So make 100% sure that email attachments is safe for download before follow below process.**
-**Don't blame me if anything happens wrong**
-**USE AT YOUR OWN RISK**
+>**Note: Gmail warned you that attachment is not safe. So make 100% sure that email attachments is safe for download before follow below process.**.
+>**Don't blame me if anything happens wrong**.
+>**USE AT YOUR OWN RISK**.
 
 --REQUIREMENTS--
 
